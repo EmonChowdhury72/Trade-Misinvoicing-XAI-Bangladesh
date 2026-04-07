@@ -29,7 +29,6 @@ Md Emon Chowdhury¹*, Runa Khatun², Addayan Barman³
 Principal Investigator & Corresponding Author
 Affiliation: Independent Researcher in Economics
 Email: mdemonchawdhury72@gmail.com
-Phone: +880 1613-381214
 
 ## Co-Authors
 
