@@ -36,6 +36,10 @@ Email: mdemonchawdhury72@gmail.com
 Affiliation: BBA Student, Department of Marketing, Faculty of Business Studies, Jahangirnagar University\
 Email: runakhatunrkn@gmail.com
 
+**Jannatul Ferdous²**\
+Affiliation: Independent Researcher in Machine Learning\
+Email: jannatulfer2005@gmail.com
+
 **Addayan Barman³**\
 Affiliation: Independent Researcher in Computer Science\
 Email: addayan2005@gmail.com
