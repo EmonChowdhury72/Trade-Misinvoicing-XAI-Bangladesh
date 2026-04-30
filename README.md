@@ -15,11 +15,12 @@ This repository contains the research materials for the manuscript on trade misi
 
 ## Authors
 
-Md Emon Chowdhury¹*, Runa Khatun², Addayan Barman³
+Md Emon Chowdhury¹*, Runa Khatun², Jannatul Ferdous³, Addayan Barman⁴
 
 1. Independent Researcher in Economics, South Keraniganj, Dhaka, Bangladesh
 2. BBA Student, Department of Marketing, Faculty of Business Studies, Jahangirnagar University, Savar, Dhaka-1342
-3. Independent Researcher in Computer Science, South Jatrabari, Dhaka, Bangladesh
+3. Independent Researcher in Machine Learning, Khulna, Bangladesh
+4. Independent Researcher in Computer Science, South Jatrabari, Dhaka, Bangladesh
 
 ---
 
